@@ -1,19 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
     Autor: Diego Alejandro Cardona Castillo
     Fecha: 22 de diciembre de 2024
@@ -225,7 +212,7 @@ void visualizar_hanoi(int total_discos, int* ubicacion_discos) {
         }
         printf("\n");
 	}
-
+}
 
 
 
@@ -268,7 +255,7 @@ int main(int argc, char *argv[]) {
 
 
 
+	return 0;
 
-
-    return 0; // Finaliza la ejecución del programa
 }
+
