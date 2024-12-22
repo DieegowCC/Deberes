@@ -27,7 +27,7 @@ Si tienes alguna duda o necesitas soporte técnico, contacta con el administrado
 ---
 
 ## 🛠️ Autor
-- **Diego **
+- **Diego**
 - Proyecto gestionado por [Diego].
 
 ---
